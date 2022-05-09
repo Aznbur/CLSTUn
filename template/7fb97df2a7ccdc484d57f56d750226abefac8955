@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>InstallDate</key>
+	<date>2022-05-07T22:12:41Z</date>
+	<key>InstallOptions</key>
+	<dict>
+		<key>filterFlag</key>
+		<integer>17</integer>
+		<key>installedBy</key>
+		<string>com.apple.Preferences</string>
+		<key>signatureVersion</key>
+		<integer>2</integer>
+	</dict>
+	<key>MCProfileIsRemovalStub</key>
+	<true/>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>LockScreenFootnote</key>
+			<string>Confidential &amp; Proprietary, Email syedalif03@icloud.com</string>
+			<key>PayloadDescription</key>
+			<string>Configures restrictions</string>
+			<key>PayloadDisplayName</key>
+			<string>Restrictions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.shareddeviceconfiguration</string>
+			<key>PayloadType</key>
+			<string>com.apple.shareddeviceconfiguration</string>
+			<key>PayloadUUID</key>
+			<string>96FC5400-24A7-49AC-A310-58E8B5351179</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Get custom Lock Screen text without supervising your device!</string>
+	<key>PayloadDisplayName</key>
+	<string>Lock Screen Footnote</string>
+	<key>PayloadIdentifier</key>
+	<string>Profile by Aznbur</string>
+	<key>PayloadOrganization</key>
+	<string>Aznbur</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3AA2EEFD-DBAB-4984-A1E8-45EECEC7DA37</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>ProductBuildVersion</key>
+	<string>13G37</string>
+	<key>ProductVersion</key>
+	<string>9.3.6</string>
+	<key>ProfileWasEncrypted</key>
+	<false/>
+</dict>
+</plist>
